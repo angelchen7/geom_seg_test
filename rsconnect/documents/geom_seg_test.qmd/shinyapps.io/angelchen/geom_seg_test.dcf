@@ -1,0 +1,14 @@
+name: geom_seg_test
+title: geom_seg_test
+username: angelchen
+account: angelchen
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 16446735
+bundleId: 11455399
+url: https://angelchen.shinyapps.io/geom_seg_test/
+version: 1
+quarto_version: 1.5.57
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE
